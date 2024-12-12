@@ -1,6 +1,6 @@
 def reward_function(params):
     """
-    AWS DeepRacer için basit ve etkili bir ödül fonksiyonu.
+    AWS DeepRacer için basit ve etkili bir ödül fonksiyonu..
     
     Parametreler:
     - params: Yarış sırasında simülasyondan gelen verilerdir. Araç konumu, hız, açı gibi bilgileri içerir.
