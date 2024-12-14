@@ -1,7 +1,7 @@
 import math
 
 def reward_function(params):
-    # Example of rewarding the agent to stay inside the two borders of the track
+    # Example of rewarding the agent to stay inside the two borders of the track.
     
     # Read input parameters
     all_wheels_on_track = params['all_wheels_on_track']
